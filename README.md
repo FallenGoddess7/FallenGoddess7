@@ -1,11 +1,14 @@
 <div align = center>
   
 # ***FallenGoddess***
+*Welcome!* | *Willkommen!* | *ようこそ!*
+
 
 </div>
 
 
-## Hi there 👋
+
+
 
 <!--
 **FallenGoddess7/FallenGoddess7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
