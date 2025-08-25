@@ -1,9 +1,20 @@
-<h1 align="center">Hello, I'm Jacob Vandegrift</h1>
-<p align="center">Welcome! | Willkommen! | ようこそ!</p>
+<div align="center">
+  <pre>
+      _                 _      __      __             _                 _  __ _   
+     | |               | |     \ \    / /            | |               (_)/ _| |  
+     | | __ _  ___ ___ | |__    \ \  / /_ _ _ __   __| | ___  __ _ _ __ _| |_| |_ 
+ _   | |/ _` |/ __/ _ \| '_ \    \ \/ / _` | '_ \ / _` |/ _ \/ _` | '__| |  _| __|
+| |__| | (_| | (_| (_) | |_) |    \  / (_| | | | | (_| |  __/ (_| | |  | | | | |_ 
+ \____/ \__,_|\___\___/|_.__/      \/ \__,_|_| |_|\__,_|\___|\__, |_|  |_|_|  \__|
+                                                               __/ |               
+                                                              |___/                
+Welcome! | Willkommen! | ようこそ!
+  </pre>
+</div>
 
-<img src="https://github.com/JacobVandegrift/JacobVandegrift/assets/anime_landscape.jpg" width="25%" align="right" />
-
-<h2 align="center">About me</h2>
-
-## About me
-I'm a CS student working towards his BCS at WTAMU.
+<div align="center">
+<img src="https://github.com/JacobVandegrift/JacobVandegrift/blob/master/assets/anime_landscape.jpg" alt="Banner" width="40%" align="right">
+<pre>
+  Hello, I'm Jacob Vandegrift
+</pre>
+</div>
