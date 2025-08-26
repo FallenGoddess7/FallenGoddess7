@@ -16,7 +16,7 @@ Welcome! | Willkommen! | ようこそ! </pre>
     <img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/anime_landscape.jpg" width="40%" align="right">
   </a>
 <pre>
-Hello, I'm Jacob Vandegrift a Computer Science Major studing at WT!
+Hello, I'm Jacob Vandegrift a Computer Science Major studing at WTAMU!
 In my free time I like to code, listen to music, watch anime, and
 play video games (especially on older handheld consoles). <br/>
 My favorite programming languages are C/C++, Zig, Rust, and Assembly.
