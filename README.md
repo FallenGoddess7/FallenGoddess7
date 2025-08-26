@@ -16,12 +16,14 @@ Welcome! | Willkommen! | ようこそ! </pre>
     <img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/anime_landscape.jpg" width="40%" align="right">
   </a>
 <pre>
-Hi, I'm Jacob Vandegrift a Computer Science Major studing at WTAMU!
-In my free time I like to code, listen to music, watch anime, and
-play video games (especially on older handheld consoles).<br/>
-My favorite programming languages are C/C++, Zig, Rust, and Assembly.<br/>
-I use Windows and Linux however I prefer to use Linux for most things
-currently I'm using NixOS you can find my configuration files <a href="https://github.com/JacobVandegrift/NixOS" title="Visit my NixOS Dotfile Repo" target="_blank" rel="noopener noreferrer">here</a>!<br/>
+Hi, I'm Jacob Vandegrift a CS Major studing at WTAMU!
+In my free time I like to code, listen to music, watch anime,
+and play video games (especially on older handheld consoles).<br/>
+A few of my favorite programming languages are C/C++, Zig, 
+Rust, and Assembly.<br/>
+I use Windows and mainly Linux for most things currently 
+the linux distro I'm using is NixOS you can find my config 
+files <a href="https://github.com/JacobVandegrift/NixOS" title="Visit my NixOS Dotfile Repo" target="_blank" rel="noopener noreferrer">here</a>!<br/>
 You can go to my website to find more about me by either clicking one
 of the images or clicking <a href="https://jacobvandegrift.com" title="Go to my website!" target="_blank" rel="noopener noreferrer">here</a>! Alternatively, you can scroll down
 to see the main projects im working on.
