@@ -26,5 +26,5 @@ NixOS you can find my config files <a href="https://github.com/JacobVandegrift/N
 I enjoy doing low-level stuff so most of my projects will
 relate to that.
 </pre>
-<img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/kyubey.gif" height="40" width="20" align="bottom">
+<img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/kyubey.gif" height="10%" align="bottom">
 </div>
