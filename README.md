@@ -11,11 +11,11 @@
 Welcome! | Willkommen! | ようこそ! </pre>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="">
     <img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/anime_landscape.jpg" width="40%" align="right">
   </a>
-<pre>
+<pre align = "left">
 Hi, I'm Jacob Vandegrift a Computer Science Major studing at WTAMU!
 In my free time I like to code, listen to music, watch anime, and
 play video games (especially on older handheld consoles). <br/>
