@@ -21,7 +21,7 @@ In my free time I like to code, listen to music, watch anime, and
 play video games (especially on older handheld consoles).<br/>
 My favorite programming languages are C/C++, Zig, Rust, and Assembly.<br/>
 
-<br><br><br><br>
+<br><br><br>
 </pre>
 </div>
 
