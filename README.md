@@ -22,7 +22,7 @@ play video games (especially on older handheld consoles).<br/>
 My favorite programming languages are C/C++, Zig, Rust, and Assembly.<br/>
 I use Windows and Linux however I prefer to use Linux for most things
 currently I'm using NixOS you can find my configuration files <a href="https://github.com/JacobVandegrift/NixOS">here</a>!
-<br><br><br>
+<br><br>
 </pre>
 </div>
 
