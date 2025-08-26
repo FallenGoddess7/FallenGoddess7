@@ -21,9 +21,8 @@ In my free time I like to code, listen to music, watch anime,
 and play video games (especially on older handheld consoles).<br/>
 A few of my favorite programming languages are C/C++, Zig, 
 Rust, and Assembly.<br/>
-I use Windows and mainly Linux for most things currently 
-the linux distro I'm using is NixOS you can find my config 
-files <a href="https://github.com/JacobVandegrift/NixOS" title="Visit my NixOS Dotfile Repo" target="_blank" rel="noopener noreferrer">here</a>!<br/>
+I use Linux mainly; the linux distro I'm currently using is 
+NixOS you can find my config files <a href="https://github.com/JacobVandegrift/NixOS" title="Visit my NixOS Dotfile Repo" target="_blank" rel="noopener noreferrer">here</a>!<br/>
 You can go to my website to find more about me by either clicking one
 of the images or clicking <a href="https://jacobvandegrift.com" title="Go to my website!" target="_blank" rel="noopener noreferrer">here</a>! Alternatively, you can scroll down
 to see the main projects im working on.
