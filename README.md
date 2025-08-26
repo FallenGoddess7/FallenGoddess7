@@ -12,7 +12,7 @@ Welcome! | Willkommen! | ようこそ! </pre>
 </div>
 
 <div align="center">
-  <a href="https://fallengoddess.org">
+  <a href="">
     <img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/anime_landscape.jpg" width="40%" align="right">
   </a>
 <pre>
