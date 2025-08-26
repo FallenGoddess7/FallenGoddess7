@@ -29,6 +29,6 @@ relate to that.
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/kyubey.gif" height="40">
+<img src="https://raw.githubusercontent.com/JacobVandegrift/JacobVandegrift/refs/heads/master/assets/kyubey.gif" height="40px" width="20px">
 </div>
 
